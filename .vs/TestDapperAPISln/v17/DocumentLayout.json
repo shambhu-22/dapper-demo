@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|f:\\.net\\deployment\\azureproject\\testdapperapisln\\testdapperapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|f:\\.net\\deployment\\azureproject\\testdapperapisln\\testdapperapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|f:\\.net\\deployment\\azureproject\\testdapperapisln\\testdapperapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\testdapperapi\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|f:\\.net\\deployment\\azureproject\\testdapperapisln\\testdapperapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\testdapperapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\testdapperapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\testdapperapi\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\testdapperapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\testdapperapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4DAB0-E69C-4A26-BC0E-D6DFCA00C7C6}|TestDapperAPI\\TestDapperAPI.csproj|solutionrelative:testdapperapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Program.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Program.cs",
+              "RelativeToolTip": "TestDapperAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:46:29.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "TestDapperAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACMAAACA7P////8LwDsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:17:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Controllers\\CompaniesController.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "TestDapperAPI\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAABUAAAAAnJmZmZkkwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:51:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "TestDapperAPI\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:07:38.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "TestDapperAPI\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AQIAAAsAAAAwMzMzMzMswB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:47:54.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "TestDapperAPI\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T04:06:33.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Data\\DapperContext.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Data\\DapperContext.cs",
+              "RelativeToolTip": "TestDapperAPI\\Data\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:44:54.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TestDapperAPI\\appsettings.json",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\appsettings.json",
+              "RelativeToolTip": "TestDapperAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T09:41:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Company.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Models\\Company.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Models\\Company.cs",
+              "RelativeToolTip": "TestDapperAPI\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:37:20.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TestDapperAPI\\Models\\Employee.cs",
+              "ToolTip": "F:\\.Net\\Deployment\\AzureProject\\TestDapperAPISln\\TestDapperAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "TestDapperAPI\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:36:20.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
